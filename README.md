@@ -9,7 +9,6 @@ Now, we know what you may be thinking: _"Duh. It gets hotter..."_
 
 But, if pressed, how would you **prove** it? 
 
-![Equator](equatorsign.png)
 
 ## WeatherPy
 
@@ -35,7 +34,7 @@ As final considerations:
 * You must include a written description of three observable trends based on the data. 
 * You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
 * You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.  
-* See [Example Solution](WeatherPy_Example.pdf) for a reference on expected format. 
+
 
 ## Hints and Considerations
 
