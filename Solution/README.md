@@ -42,11 +42,6 @@ len(cities)
     500
 
 
-
-*-90 to + 90 -- latitudes
-*-180 to +180 -- longitudes
-
-
 ```python
 from config import api_key
 # Create settings dictionary with information we're interested in
@@ -1059,19 +1054,6 @@ WeatherPy_df
 
 
 <div>
-<style>
-    .dataframe thead tr:only-child th {
-        text-align: right;
-    }
-
-    .dataframe thead th {
-        text-align: left;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
