@@ -59,15 +59,11 @@ len(cities)
     600
 
 
-<<<<<<< HEAD
 
 # Perform API Calls
 
 * Initialize WeatherPy Data Frame to store weather data for the cities generated.
 
-
-=======
->>>>>>> 29af73f8fc7dc721877114fe3b0414ed61fe6370
 ```python
 # import API Key from config file
 from config import api_key
