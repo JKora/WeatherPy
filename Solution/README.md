@@ -30,7 +30,7 @@ import openweathermapy as owm
 import csv
 ```
 
-# Generate cities list
+## Generate cities list
 
 
 ```python
