@@ -62,7 +62,7 @@ len(cities)
 
 ## Perform API Calls
 
-** Initialize WeatherPy Data Frame to store weather data for the cities generated.
+* Initialize WeatherPy Data Frame to store weather data for the cities generated.
 
 ```python
 # import API Key from config file
